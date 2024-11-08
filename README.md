@@ -1,12 +1,11 @@
 # 🤔 Is it Wednesday?
 
-Let's answer the most pressing question of the day: **[guiruggiero.com/wednesdaychecker](https://guiruggiero.com/wednesdaychecker)**
+Let's answer the most pressing question of the day: **[guiruggiero.com/wednesdaychecker](https://guiruggiero.com/wednesdaychecker?utm_source=github&utm_medium=wednesdaychecker)**
 
-Built by [Gui Ruggiero](https://guiruggiero.com/) with [Expo](https://github.com/expo/expo) on a weekday evening during COVID (February 2021) as a joke with friends. Because sometimes, getting over the hump day is all that matters.
+Built by [Gui Ruggiero](https://guiruggiero.com/?utm_source=github&utm_medium=wednesdaychecker) with [Expo](https://github.com/expo/expo) on a weekday evening during COVID (February 2021) as a joke with friends. Because sometimes, getting over the hump day is all that matters.
 
 (At this point, this is just a desperate attempt at justifying the (little) time invested in building such a crucial piece of software 🤪)
 
----
 ---
 
 ### ⚠️ Disclaimer
