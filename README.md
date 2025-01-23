@@ -14,4 +14,4 @@ This software is provided "as is" without any warranties. Use at your own risk. 
 
 ### 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. You are free to use, modify, and distribute this software for any purpose, provided you include the original copyright notice and the full license text in any copies or substantial portions of the software. Attribution is required.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. Attribution is required.
