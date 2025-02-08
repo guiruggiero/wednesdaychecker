@@ -14,4 +14,4 @@ This project is licensed under the [MIT License](LICENSE). Attribution is requir
 
 #### ⚠️ Disclaimer
 
-This software is provided "as is" without any warranties. Use at your own risk. The author is not responsible for any consequences of using this software, including but not limited to not knowing if it's Wednesday or missing appointments on Wednesdays or any other day of the week. Please use responsibly and check your calendar.
+This software is provided "as is" without any warranties. Use at your own risk. The author is not responsible for any consequences of using this software, including but not limited to not knowing if it's Wednesday or missing appointments on Wednesdays or any other day of the week. Please use it responsibly and check your calendar.
