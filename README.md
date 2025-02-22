@@ -1,3 +1,5 @@
+[![CodeQL](https://github.com/guiruggiero/guibot/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/guiruggiero/guibot/actions/workflows/github-code-scanning/codeql)
+
 # 🤔 Is it Wednesday?
 
 Let's answer the most pressing question of the day: **[guiruggiero.com/wednesdaychecker](https://guiruggiero.com/wednesdaychecker?utm_source=github&utm_medium=wednesdaychecker)**
